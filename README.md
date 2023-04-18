@@ -8,7 +8,7 @@ You can start using AtOnce's Chrome Extension in 60 seconds. Here's how:
 1. Go to the [AtOnce Chrome Extension](https://atonce.com/chatgpt-chrome-extension) page or search "AtOnce ChatGPT Chrome Extension"
 2. Click 'Add to Chrome'
 3. Done! You'll see your prompts inside ChatGPT.
-
+  
 
 
 ## The Best ChatGPT Prompts Extension for Chrome
@@ -18,7 +18,7 @@ AtOnce's ChatGPT Prompts Extension is a powerful tool that provides users with a
 With over 30 years of experience in the industry, AtOnce has developed a comprehensive extension that caters to the needs of various professionals and creatives alike, including [blog writers](https://atonce.com/ai-blog-writer-generator) and [affiliate marketers using AI](https://atonce.com/blog/best-ai-affiliate-marketing-programs). 
 
 We'll delve into the features, benefits, and usage of ChatGPT prompts, exploring the vast potential of AI prompts in enhancing productivity and creativity. We'll also explore the most common questions around [AI content generation](https://atonce.com/ai-content-generator-writer) and [AI image generation prompts](https://atonce.com/ai-art-generator-for-images) for beginners.
-
+  
 
 ## Features of ChatGPT Prompts Extension
 AtOnce's ChatGPT Prompts Extension boasts an array of features that make it a valuable [writing tool](https://atonce.com/ai-writing-assistant-software-tool) for a wide range of use cases.
@@ -32,7 +32,7 @@ The extension provides a vast library of prompts that cater to different purpose
 
 ### Best AI Image Prompts Generator
 With the ability to generate image prompts, users can now create visually appealing content that stands out in today's visually-driven digital landscape.
-
+  
 
 ## How to Use ChatGPT Prompts Extension
 
