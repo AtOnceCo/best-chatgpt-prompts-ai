@@ -9,11 +9,14 @@ You can start using AtOnce's Chrome Extension in 60 seconds. Here's how:
 2. Click 'Add to Chrome'
 3. Done! You'll see your prompts inside ChatGPT.
 
-  
-```
-[`Click Here to Install This FREE Chrome Extension`](https://atonce.com/chatgpt-chrome-extension) To Get 600 ChatGPT Prompts Directly Inside ChatGPT.
 
-You don't need to write long or complex prompts anymore!
+## Free Chrome Extension
+[Click Here to Install This FREE Chrome Extension](https://atonce.com/chatgpt-chrome-extension) To Get 600 ChatGPT Prompts Directly Inside ChatGPT.
+
+You don't need to write long ChatGPT prompts anymore!
+
+```
+https://atonce.com/chatgpt-chrome-extension
 ```
 
 
