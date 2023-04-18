@@ -8,7 +8,13 @@ You can start using AtOnce's Chrome Extension in 60 seconds. Here's how:
 1. Go to the [AtOnce Chrome Extension](https://atonce.com/chatgpt-chrome-extension) page or search "AtOnce ChatGPT Chrome Extension"
 2. Click 'Add to Chrome'
 3. Done! You'll see your prompts inside ChatGPT.
+
   
+```
+[`Click Here to Install This FREE Chrome Extension`](https://atonce.com/chatgpt-chrome-extension) To Get 600 ChatGPT Prompts Directly Inside ChatGPT.
+
+You don't need to write long or complex prompts anymore!
+```
 
 
 ## The Best ChatGPT Prompts Extension for Chrome
@@ -84,16 +90,16 @@ Whether you need AI prompts for images or want to use an AI image generator, the
 #### Midjourney Prompts
 Midjourney is one of the best AI image generators, so you can use pretty much any AI art prompt: just make it super detailed.
 
-1."Generate a high-resolution image of a serene mountain landscape during sunrise, with mist rising from the valleys and birds flying in the distance."
-2."Create a detailed image of a bustling market scene in a medieval European town, with vendors selling fruits, vegetables, and various goods, and people going about their daily activities."
-3."Generate an intricate image of an underwater coral reef teeming with colorful fish, sea turtles, and vibrant coral formations."
-4."Create a lifelike image of a golden retriever puppy playing in a field of wildflowers, with sunlight filtering through the trees and a clear blue sky in the background."
-5."Generate a realistic image of a futuristic cityscape at night, with glowing skyscrapers, flying cars, and holographic advertisements filling the skyline."
-6."Create a detailed image of a serene Japanese garden with a traditional wooden bridge, cherry blossom trees in full bloom, and a koi pond reflecting the surrounding landscape."
-7."Generate an awe-inspiring image of the Northern Lights dancing across the night sky, with vibrant colors swirling and illuminating the snowy landscape below."
-8."Create a stunning image of a majestic African savannah, with a herd of elephants grazing in the distance, acacia trees dotting the landscape, and a golden sunset painting the sky."
-9."Generate a captivating image of a lush tropical rainforest, with towering trees draped in vines, exotic birds perched on branches, and a hidden waterfall cascading into a crystal-clear pool."
-10."Create a detailed image of a serene beach at sunset, with gentle waves lapping at the shore, palm trees swaying in the breeze, and a vivid orange and pink sky fading into twilight."
+1. "Generate a high-resolution image of a serene mountain landscape during sunrise, with mist rising from the valleys and birds flying in the distance."
+2. "Create a detailed image of a bustling market scene in a medieval European town, with vendors selling fruits, vegetables, and various goods, and people going about their daily activities."
+3. "Generate an intricate image of an underwater coral reef teeming with colorful fish, sea turtles, and vibrant coral formations."
+4. "Create a lifelike image of a golden retriever puppy playing in a field of wildflowers, with sunlight filtering through the trees and a clear blue sky in the background."
+5. "Generate a realistic image of a futuristic cityscape at night, with glowing skyscrapers, flying cars, and holographic advertisements filling the skyline."
+6. "Create a detailed image of a serene Japanese garden with a traditional wooden bridge, cherry blossom trees in full bloom, and a koi pond reflecting the surrounding landscape."
+7. "Generate an awe-inspiring image of the Northern Lights dancing across the night sky, with vibrant colors swirling and illuminating the snowy landscape below."
+8. "Create a stunning image of a majestic African savannah, with a herd of elephants grazing in the distance, acacia trees dotting the landscape, and a golden sunset painting the sky."
+9. "Generate a captivating image of a lush tropical rainforest, with towering trees draped in vines, exotic birds perched on branches, and a hidden waterfall cascading into a crystal-clear pool."
+10. "Create a detailed image of a serene beach at sunset, with gentle waves lapping at the shore, palm trees swaying in the breeze, and a vivid orange and pink sky fading into twilight."
 
 #### Stable Diffusion Prompts
 Stable Diffusion is one of the best open source AI image generators, so AI prompts for them need to be more detailed - and need to include negative prompts.
